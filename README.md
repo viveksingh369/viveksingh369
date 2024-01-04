@@ -1,4 +1,6 @@
+[![Header](https://github.com/viveksingh369/viveksingh369/blob/main/new_readme_header.jpg "Header")](https://martinheinz.dev/)
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksingh369&label=Profile%20views&color=0e75b6&style=flat" alt="viveksingh369" /> </p>
